@@ -1,0 +1,5 @@
+{
+  "name": "RPM Content Creator Dashboard",
+  "description": "An application based on the Rapid Planning Method (RPM) to manage content creation tasks for platforms like TikTok, Reels, Facebook, and Zalo. It features countdown timers for focused work sessions, tracks time spent on each task, and calculates potential passive income growth using compound interest projections.",
+  "requestFramePermissions": []
+}
